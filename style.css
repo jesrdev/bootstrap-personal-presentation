@@ -1,0 +1,34 @@
+/*Custom color palette*/
+:root {
+  --Eerie-Black: #212121;
+  --Honeydew: #e0f2e9;
+  --Amazon: #337357;
+  --Red-Pigment: #ee2e31;
+  --Camel: #cf995f;
+}
+
+.css-bg-EerieBlack {
+  background-color: var(--Eerie-Black);
+}
+.css-bg-Honeydew {
+  background-color: var(--Honeydew);
+}
+.css-bg-Amazon {
+  background-color: var(--Amazon);
+}
+.css-bg-Red-Pigment {
+  background-color: var(--Red-Pigment);
+}
+.css-bg-Camel {
+  background-color: var(--Camel);
+}
+
+.bg-dark-transparent {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.profile-pic {
+  width: 700px;
+  max-width: 100%;
+  height: auto;
+}
